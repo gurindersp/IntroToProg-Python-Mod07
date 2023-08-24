@@ -1,6 +1,7 @@
 *Gurinder Pabla*  
 *Aug. 23, 2023*  
 *Assignment 07*  
+*Foundations of Programming: Python*
 *[https://github.com/gurindersp/IntroToProg-Python-Mod07](https://github.com/gurindersp/IntroToProg-Python-Mod07)*
 
 # Pickling and Structured Error Handling
