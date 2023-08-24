@@ -18,22 +18,22 @@ The task for this week diverged from the recent assignments in that a template s
 ## Summary
 At the end of this module, we have gone through and enforced topics that we have been exposed to before, such as working with text files, and are able to expand on them by using programming experience that we did not have before. As such, we are now capable of saving data into a file with obscure text via Python Pickling. In addition, we learned more about error messages by practicing with the Try-Except method, and that will serve us well in the future for instances where our script will be commonly interacting with users. By learning structured error handling, we are setting foundations for more clean and efficient coding in the future.  
 
-![Figure 1](https://gurindersp.github.io/gurindersp/IntroToProg-Python-Mod07/blob/main/docs/Picture1.png "Figure 1")
+![Figure 1](https://gurindersp.github.io/IntroToProg-Python-Mod07/blob/main/docs/Picture1.png "Figure 1")
 #### *Figure 1: Custom Defined Functions*             
 
-![Figure 2](https://gurindersp.github.io/gurindersp/IntroToProg-Python-Mod07/blob/main/docs/Picture2.png "Figure 2")
+![Figure 2](https://gurindersp.github.io/IntroToProg-Python-Mod07/blob/main/docs/Picture2.png "Figure 2")
 #### *Figure 2: Script on PyCharm*  
 
-![Figure 3](https://gurindersp.github.io/gurindersp/IntroToProg-Python-Mod07/blob/main/docs/Picture3.png "Figure 3")
+![Figure 3](https://gurindersp.github.io/IntroToProg-Python-Mod07/blob/main/docs/Picture3.png "Figure 3")
 #### *Figure 3: Script on PyCharm*  
 
-![Figure 4](https://gurindersp.github.io/gurindersp/IntroToProg-Python-Mod07/blob/main/docs/Picture4.png "Figure 4")
+![Figure 4](https://gurindersp.github.io/IntroToProg-Python-Mod07/blob/main/docs/Picture4.png "Figure 4")
 #### *Figure 4: Script on PyCharm*  
 
-![Figure 5](https://gurindersp.github.io/gurindersp/IntroToProg-Python-Mod07/blob/main/docs/Picture5.png "Figure 5")
+![Figure 5](https://gurindersp.github.io/IntroToProg-Python-Mod07/blob/main/docs/Picture5.png "Figure 5")
 #### *Figure 5: Text file on PyCharm*  
 
-![Figure 6](https://gurindersp.github.io/gurindersp/IntroToProg-Python-Mod07/blob/main/docs/Picture6.png "Figure 6")
+![Figure 6](https://gurindersp.github.io/IntroToProg-Python-Mod07/blob/main/docs/Picture6.png "Figure 6")
 #### *Figure 6: Script on Terminal*  
 
 
